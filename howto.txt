@@ -55,7 +55,10 @@ git commit -m "Começando Projeto1"
 >> ENVIA OS ARQUIVOS
 git push
 
+
 >>> Para cada versão que ira subir agora só digitar:
 git add .
 git commit -m "Começando Projeto2"
 git push
+
+FIM
